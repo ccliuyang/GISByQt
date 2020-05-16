@@ -1,0 +1,2 @@
+# GeoGISByQt
+GeoGIS By Qt
